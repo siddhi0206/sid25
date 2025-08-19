@@ -13,7 +13,7 @@ jobs:
     runs-on:ubuntu-latest
 
     steps:
-      -name:Show current working directory
+      -name: Show current working directory
         run:pwd
 
       -name: List files in the directory
